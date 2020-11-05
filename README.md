@@ -20,10 +20,11 @@ Questions
 ## Description
     
     Budget caculator is an app to help user tracking their daily expenses and provide instant updates and graphic charts of all logged in expenses. This app alos includes an offline saving and operation function to allow user still be able to track their budget without internet. Once the internet is availabe, the app will automatically update the data to the live database to reflect the acccurate data. 
+    link to github:
+    https://github.com/Shunpintseng/Budget-Calculator
+    link to heroku:
+    https://git.heroku.com/warm-wave-29612.git
 
-    ![Index view with weights workout input] (public\Images\index-weights.JPG)
-
-    ![Index view with cardio workout input] (public\Images\index-cardio.JPG)
 
 
 
